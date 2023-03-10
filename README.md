@@ -1,3 +1,3 @@
 # Bilibili-Spyider
 
-# 需要自己提供请求头，ffmpeg
+# 使用ffmpeg合成音频视频
